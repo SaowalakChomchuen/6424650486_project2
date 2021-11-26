@@ -4,7 +4,7 @@
 # ช่องทางการติดต่อ
 นางสาวเสาวลักษณ์ ชมชื่น(มิ้นท์)<br>
 e-mail:   saowalak.cho@dome.tu.ac.th<br>
-Facebook:   Mint Saowalak<br>
+Facebook:  Mint Saowalak<br>
 id line:   themxnt_<br>
 instagram:   228mxntomars<br>
 tol:   062-8767161
