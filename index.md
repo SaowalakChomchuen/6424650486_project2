@@ -3,37 +3,23 @@
 นางสาวเสาวลักษณ์ ชมชื่น(มิ้นท์)<br>
 saowalak.cho@dome.tu.ac.th<br>
 Mint Saowalak<br>
+themxnt_<br>
+228mxntomars<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### "Don’t give up the beginning"
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[![6wC5C8.md.jpg](https://sv1.picz.in.th/images/2021/11/26/6wC5C8.md.jpg)](https://www.picz.in.th/image/6wC5C8)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# ผลงาน
+- ผ่านการเรียนออนไลน์ รายวิชา วิทยาการข้อมูลเเละการประยุกต์ใช้ จุฬาลงกรณ์มหาวิทยาลัย
+- ผ่านการเรียนออนไลน์ รายวิชา คลังข้อมูลเเละการทำเหมืองข้อมูล มหาวิทยาลัยรังสิต
+- เข้าร่วมโครงการ "ค่ายโครงงานคณิตศาสตร์ประยุกต์"ภาควิชาคณิตศาสตร์ คณะวิทยาศาสตร์ประยุกต์ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ
+- เข้าร่วมกิจกรรมการถ่ายภาพทางวิทยาศาสตร์ สัปดาห์วิทยาศาสตร์เเห่งชาติ ที่มหาลัยราชภัฎลพบุรี จังหวัดลพบุรี
+- ได้รับรางวัลระดับเหรียญทองเเดง งานเเข่งขันเด็กปล่อยของ ระดับมัธยมศึกษาตอนปลาย ประเภทการออกเเบบ Application
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SaowalakChomchuen/6424650486_project2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1
