@@ -1,6 +1,7 @@
 ## SAOWALAK_PROFILE_107
 
 นางสาวเสาวลักษณ์ ชมชื่น(มิ้นท์)<br>
+# ช่องทางการติดต่อ
 saowalak.cho@dome.tu.ac.th<br>
 Mint Saowalak<br>
 themxnt_<br>
