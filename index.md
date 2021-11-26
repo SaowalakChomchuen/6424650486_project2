@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## SAOWALAK_PROFILE_107
 
-You can use the [editor on GitHub](https://github.com/SaowalakChomchuen/6424650486_project2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+นางสาวเสาวลักษณ์ ชมชื่น(มิ้นท์)<br>
+saowalak.cho@dome.tu.ac.th<br>
+Mint Saowalak<br>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
